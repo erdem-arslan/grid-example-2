@@ -1,3 +1,15 @@
 # Grid System
 
-Demo: https://erdemarslan.net/examples/grid2/
+Grid System
+
+
+## Live Demo
+
+[Live Demo] https://erdemarslan.net/sample-projects/grid2/
+
+
+## Used Technologies 
+
++ HTML
++ CSS
+
